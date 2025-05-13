@@ -1,7 +1,9 @@
-# 🧠 30-Day LeetCode + DSA Practice
-
-| Day | Topics | Problems Solved |
-|-----|--------|-----------------|
-| 1   | Arrays I | Remove Duplicates, Remove Element |
-| 2   | Arrays II | Search Insert Position, Plus One |
-...
+| Day | Topic                 | Tasks                                                                                                                                                                                     |
+| --- | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Arrays I              | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/), [Remove Element](https://leetcode.com/problems/remove-element/)                                  |
+| 2   | Arrays II             | [Search Insert Position](https://leetcode.com/problems/search-insert-position/), [Plus One](https://leetcode.com/problems/plus-one/)                                                      |
+| 3   | Strings I             | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/), [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)                                            |
+| 4   | Strings II            | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/), [Find First Occurrence](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) |
+| 5   | Binary Representation | [Add Binary](https://leetcode.com/problems/add-binary/), [Sqrt(x)](https://leetcode.com/problems/sqrtx/)                                                                                  |
+| 6   | Catch Up + Revise     | Re-solve any 2 problems from above without hints                                                                                                                                          |
+| 7   | Weekly Review         | Watch “Arrays and Strings Interview Patterns” (NeetCode/TakeUForward), revise notes                                                                                                       |
