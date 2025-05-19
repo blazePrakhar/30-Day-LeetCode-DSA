@@ -6,4 +6,3 @@
 | 4   | Strings II            | [Add Binary](https://leetcode.com/problems/add-binary/), [Sqrt(x)](https://leetcode.com/problems/sqrtx/)  
 | 5   | Binary Representation | [Add Binary](https://leetcode.com/problems/add-binary/), [Sqrt(x)](https://leetcode.com/problems/sqrtx/)  
 | 6   | Revision + Practice   | [Remove Element](https://leetcode.com/problems/remove-element/), [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)  
-|
